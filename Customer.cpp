@@ -8,7 +8,7 @@
 
 Customer::Customer()
 {
-	srand(time(NULL));
+
 	// makes sure the percentages equal to MAX
 	int sum = 0;
 	int temp_array[4];
